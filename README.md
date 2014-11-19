@@ -20,6 +20,7 @@ Lizard-fastDB
 8. Rich tools support.
 
 JAR Requirements
+=======
 
 commons-lang-2.4.jar	             ( 必须 )
 
@@ -35,7 +36,7 @@ jotm-2.0.8.jar	                   ( 如果需要使用多数据事务管理器�
 
 proxool-0.9.1.jar                  ( 如果使用Proxool连接池，则必须 )
 
-proxool-cglib-0.9.1.jar	Proxool    ( 依赖包 )
+proxool-cglib-0.9.1.jar            ( Proxool依赖包 )
 
 c3p0-0.9.1.2.jar	                 ( 如果使用C3P0连接池，则必须 )
 
