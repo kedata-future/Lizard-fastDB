@@ -1,0 +1,22 @@
+
+开源项目  ： Lizard fastDB
+发  起  人 ： 沈 刚 
+
+fastDB特点：
+1、配置少，轻量级。                                                                                                  
+2、提供bonecp、proxool、c3p0、druid（默认）连接池切换。            
+3、无侵入式注解设计。                                                                                  
+4、支持mysql、Oracle数据库。(v2版：MariaDB、PostgreSQL )
+5、集成ehcache缓存。(v2版）
+6、支持分布式事务支持。
+7、集成大数据搜索和集成Cober分布式大数据支持。
+
+历程：
+
+2014-9-10 fastDB_v1.0.0 正式投入使用
+
+2014-10-22 更新内容项目：
+   1、增加阿里巴巴的druid数据库连接池。
+   2、修正一些使用中出现的bug。
+   
+

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+built-by: SHEN.GANG
+build-jdk: 1.7.0_17
+

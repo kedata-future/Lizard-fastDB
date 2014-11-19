@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="depends_lib/bonecp-0.7.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="depends_lib/c3p0-oracle-thin-extras-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="depends_lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="depends_lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="depends_lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="depends_lib/jotm-2.0.8.jar"/>
+	<classpathentry kind="lib" path="depends_lib/proxool-0.9.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/proxool-cglib-0.9.1.jar"/>
+	<classpathentry kind="lib" path="depends_lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="depends_lib/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="depends_lib/slf4j-log4j12-1.5.11.jar"/>
+	<classpathentry kind="lib" path="depends_lib/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="depends_lib/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="depends_lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="depends_lib/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="depends_lib/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="depends_lib/druid-1.0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
