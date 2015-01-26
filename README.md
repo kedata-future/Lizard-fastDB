@@ -9,7 +9,7 @@ Lizard-fastDB
 
 4. The ORM annotation support.
 
-5. Multiple data sources to support：bonecp、proxool、c3p0、druid.
+5. Multiple data sources to support：druid(default)、bonecp、proxool、c3p0.
 
 6. V1 version support for mysql, Oracle database.
 
@@ -20,31 +20,31 @@ Lizard-fastDB
 JAR Requirements
 =============
 
-commons-lang-2.4.jar  -------------------- ( 必须 )
+commons-lang-2.4.jar  -------------------- ( mandatory )
 
-commons-io-1.4.jar  ---------------------- ( 必须 )
+commons-io-1.4.jar  ---------------------- ( mandatory )
 
-commons-logging-1.1.1.jar  --------------- ( 必须 )
+commons-logging-1.1.1.jar  --------------- ( mandatory )
 
-dom4j-1.6.1.jar  ------------------------- ( 必须 )
+dom4j-1.6.1.jar  ------------------------- ( mandatory )
 
-jaxen-1.1.1.jar 	------------------------ ( 必须， 用于schema验证xml文件内容和xpath选择 )
+jaxen-1.1.1.jar 	------------------------ ( mandatory )
 
-jotm-2.0.8.jar  -------------------------- ( 如果需要使用多数据事务管理器，则必须 )
+jotm-2.0.8.jar  -------------------------- ( optional )
 
-proxool-0.9.1.jar  ----------------------- ( 如果使用Proxool连接池，则必须 )
+proxool-0.9.1.jar  ----------------------- ( optional )
 
-proxool-cglib-0.9.1.jar  ----------------- ( Proxool依赖包 )
+proxool-cglib-0.9.1.jar  ----------------- ( optional )
 
-c3p0-0.9.1.2.jar  ------------------------ ( 如果使用C3P0连接池，则必须 )
+c3p0-0.9.1.2.jar  ------------------------ ( optional )
 
-bonecp-0.7.1.jar  ------------------------ ( 如果使用BoneCP连接池，则必须 )
+bonecp-0.7.1.jar  ------------------------ ( optional )
 
-guava-10.0.1.jar  ------------------------ ( BoneCP依赖包 )
+guava-10.0.1.jar  ------------------------ ( optional )
 
-slf4j-simple-1.5.8.jar  ------------------ ( BoneCP依赖包 )
+slf4j-simple-1.5.8.jar  ------------------ ( optional )
 
-druid-1.0.9.jar  ------------------------- ( 如果使用Druid连接池，则必须 )
+druid-1.0.9.jar  ------------------------- ( optional )
 
-jdom-1.0.jar  ---------------------------- (  用于辅助 jaxen 解析xml文件 )
+jdom-1.0.jar  ---------------------------- (optional )
 
