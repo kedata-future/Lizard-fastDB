@@ -9,13 +9,15 @@ Lizard-fastDB
 
 4. The ORM annotation support.
 
-5. Multiple data sources to support：druid(default)、bonecp、proxool、c3p0.
+5. Multiple data sources to support：druid(default)、c3p0、bonecp、proxool.
 
 6. V1 version support for mysql, Oracle database.
 
 7. Support the transaction manager (single data source, multi data source and nested transaction).
 
 8. Rich tools support.
+
+9. V2 is developing.
 
 JAR Requirements
 =============
