@@ -27,7 +27,7 @@ import com.lizard.fastdb.util.ObjectExtend;
 import com.lizard.fastdb.util.XMLUtils;
 
 /**
- * 数据源配置解析类，用于解析给定的数据源配置文件
+ * 数据源配置解析类，用于解析给定的数据源配置文件(V1版为datasource.xml)
  * 
  * @author SHEN.GANG
  */
