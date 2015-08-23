@@ -17,7 +17,7 @@ Lizard-fastDB
 
 8. Rich tools support.
 
-9. V2 is developing.
+9. V2 is developing, supported mongoDB
 
 JAR Requirements
 =============
